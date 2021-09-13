@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FIGMA -Frontend Test</title>
+</head>
+<body>
+    <header>
+   <div class="Top-nav-bar">Desktop</div>
+   <div class="Side-bar"></div>
+   <div class="Rectangle7"></div>
+   <div class="Rectangle8"></div>
+   <div class="Rectangle9"></div>
+   <div class="Rectangle10"></div>
+   <div class="Mobile"></div>
+   <div class="sidebar2"></div>
+</header>
+</body>
+</html>
